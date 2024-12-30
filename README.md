@@ -28,4 +28,18 @@ A simple Pygame project where raindrops fall from the top of the screen, and new
    ```
 4. Close the game by clicking the close button or pressing CTRL + C in the terminal.
    ---
+## File Structure
+- raindrops.py: Main script that initializes the game, handles events, and updates raindrops.
+- raindrop_settings.py: Contains configurable game settings like screen size, raindrop speed, and colors.
+- raindrop_grid.py: Defines the behavior of individual raindrops (e.g., falling, positioning).
+- images/: Directory containing the raindrop.png image.
+---
+## Contributing
+Contributions are welcome! If you’d like to improve the project, feel free to fork the repository and submit a pull request.
+---
+## License
+This project is licensed under the MIT License. See the [License](./LICENSE)
+---
+## Acknowledgements
+- [Rain Particle Animated](https://opengameart.org/content/rain-particle-animated) by opengameart.org
    
