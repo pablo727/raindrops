@@ -10,7 +10,7 @@ A simple Pygame project where raindrops fall from the top of the screen, and new
 ## Requirements
 - Python 3.8 or higher.
 - Pygame library.
-  Install Pygame using the following command:
+- Install Pygame using the following command:
   ```bash
   pip install pygame
   ```
